@@ -14,3 +14,4 @@ Flask-SocketIO
 requests
 python-dotenv
 eventlet
+gunicorn==21.2.0
