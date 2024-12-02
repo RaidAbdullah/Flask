@@ -1,0 +1,722 @@
+2024-11-29 12:33:01,237 - INFO - Starting daily scrape
+2024-11-29 12:33:04,842 - INFO - WebDriver setup completed
+2024-11-29 12:33:17,353 - ERROR - Error filling date field: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6BEEA6CB5+28821]
+	(No symbol) [0x00007FF6BEE13840]
+	(No symbol) [0x00007FF6BECB578A]
+	(No symbol) [0x00007FF6BED091BE]
+	(No symbol) [0x00007FF6BED094AC]
+	(No symbol) [0x00007FF6BED52647]
+	(No symbol) [0x00007FF6BED2F33F]
+	(No symbol) [0x00007FF6BED4F412]
+	(No symbol) [0x00007FF6BED2F0A3]
+	(No symbol) [0x00007FF6BECFA778]
+	(No symbol) [0x00007FF6BECFB8E1]
+	GetHandleVerifier [0x00007FF6BF1DFCAD+3408013]
+	GetHandleVerifier [0x00007FF6BF1F741F+3504127]
+	GetHandleVerifier [0x00007FF6BF1EB5FD+3455453]
+	GetHandleVerifier [0x00007FF6BEF6BDBB+835995]
+	(No symbol) [0x00007FF6BEE1EB5F]
+	(No symbol) [0x00007FF6BEE1A814]
+	(No symbol) [0x00007FF6BEE1A9AD]
+	(No symbol) [0x00007FF6BEE0A199]
+	BaseThreadInitThunk [0x00007FF9B1D9259D+29]
+	RtlUserThreadStart [0x00007FF9B31EAF38+40]
+
+2024-11-29 12:33:27,366 - ERROR - Error filling date field: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6BEEA6CB5+28821]
+	(No symbol) [0x00007FF6BEE13840]
+	(No symbol) [0x00007FF6BECB578A]
+	(No symbol) [0x00007FF6BED091BE]
+	(No symbol) [0x00007FF6BED094AC]
+	(No symbol) [0x00007FF6BED52647]
+	(No symbol) [0x00007FF6BED2F33F]
+	(No symbol) [0x00007FF6BED4F412]
+	(No symbol) [0x00007FF6BED2F0A3]
+	(No symbol) [0x00007FF6BECFA778]
+	(No symbol) [0x00007FF6BECFB8E1]
+	GetHandleVerifier [0x00007FF6BF1DFCAD+3408013]
+	GetHandleVerifier [0x00007FF6BF1F741F+3504127]
+	GetHandleVerifier [0x00007FF6BF1EB5FD+3455453]
+	GetHandleVerifier [0x00007FF6BEF6BDBB+835995]
+	(No symbol) [0x00007FF6BEE1EB5F]
+	(No symbol) [0x00007FF6BEE1A814]
+	(No symbol) [0x00007FF6BEE1A9AD]
+	(No symbol) [0x00007FF6BEE0A199]
+	BaseThreadInitThunk [0x00007FF9B1D9259D+29]
+	RtlUserThreadStart [0x00007FF9B31EAF38+40]
+
+2024-11-29 12:33:37,417 - ERROR - Error filling date field: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6BEEA6CB5+28821]
+	(No symbol) [0x00007FF6BEE13840]
+	(No symbol) [0x00007FF6BECB578A]
+	(No symbol) [0x00007FF6BED091BE]
+	(No symbol) [0x00007FF6BED094AC]
+	(No symbol) [0x00007FF6BED52647]
+	(No symbol) [0x00007FF6BED2F33F]
+	(No symbol) [0x00007FF6BED4F412]
+	(No symbol) [0x00007FF6BED2F0A3]
+	(No symbol) [0x00007FF6BECFA778]
+	(No symbol) [0x00007FF6BECFB8E1]
+	GetHandleVerifier [0x00007FF6BF1DFCAD+3408013]
+	GetHandleVerifier [0x00007FF6BF1F741F+3504127]
+	GetHandleVerifier [0x00007FF6BF1EB5FD+3455453]
+	GetHandleVerifier [0x00007FF6BEF6BDBB+835995]
+	(No symbol) [0x00007FF6BEE1EB5F]
+	(No symbol) [0x00007FF6BEE1A814]
+	(No symbol) [0x00007FF6BEE1A9AD]
+	(No symbol) [0x00007FF6BEE0A199]
+	BaseThreadInitThunk [0x00007FF9B1D9259D+29]
+	RtlUserThreadStart [0x00007FF9B31EAF38+40]
+
+2024-11-29 12:33:37,417 - ERROR - Error during scraping: Failed to fill end date fields
+2024-11-29 12:35:54,147 - INFO - Starting daily scrape
+2024-11-29 12:35:55,295 - INFO - WebDriver setup completed
+2024-11-29 12:36:17,203 - ERROR - Error during scraping: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6BEEA6CB5+28821]
+	(No symbol) [0x00007FF6BEE13840]
+	(No symbol) [0x00007FF6BECB578A]
+	(No symbol) [0x00007FF6BED091BE]
+	(No symbol) [0x00007FF6BED094AC]
+	(No symbol) [0x00007FF6BED52647]
+	(No symbol) [0x00007FF6BED2F33F]
+	(No symbol) [0x00007FF6BED4F412]
+	(No symbol) [0x00007FF6BED2F0A3]
+	(No symbol) [0x00007FF6BECFA778]
+	(No symbol) [0x00007FF6BECFB8E1]
+	GetHandleVerifier [0x00007FF6BF1DFCAD+3408013]
+	GetHandleVerifier [0x00007FF6BF1F741F+3504127]
+	GetHandleVerifier [0x00007FF6BF1EB5FD+3455453]
+	GetHandleVerifier [0x00007FF6BEF6BDBB+835995]
+	(No symbol) [0x00007FF6BEE1EB5F]
+	(No symbol) [0x00007FF6BEE1A814]
+	(No symbol) [0x00007FF6BEE1A9AD]
+	(No symbol) [0x00007FF6BEE0A199]
+	BaseThreadInitThunk [0x00007FF9B1D9259D+29]
+	RtlUserThreadStart [0x00007FF9B31EAF38+40]
+
+2024-11-29 12:37:01,070 - INFO - Starting daily scrape
+2024-11-29 12:37:02,212 - INFO - WebDriver setup completed
+2024-11-29 12:37:33,550 - ERROR - Error filling date field: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6BEEA6CB5+28821]
+	(No symbol) [0x00007FF6BEE13840]
+	(No symbol) [0x00007FF6BECB578A]
+	(No symbol) [0x00007FF6BED091BE]
+	(No symbol) [0x00007FF6BED094AC]
+	(No symbol) [0x00007FF6BED52647]
+	(No symbol) [0x00007FF6BED2F33F]
+	(No symbol) [0x00007FF6BED4F412]
+	(No symbol) [0x00007FF6BED2F0A3]
+	(No symbol) [0x00007FF6BECFA778]
+	(No symbol) [0x00007FF6BECFB8E1]
+	GetHandleVerifier [0x00007FF6BF1DFCAD+3408013]
+	GetHandleVerifier [0x00007FF6BF1F741F+3504127]
+	GetHandleVerifier [0x00007FF6BF1EB5FD+3455453]
+	GetHandleVerifier [0x00007FF6BEF6BDBB+835995]
+	(No symbol) [0x00007FF6BEE1EB5F]
+	(No symbol) [0x00007FF6BEE1A814]
+	(No symbol) [0x00007FF6BEE1A9AD]
+	(No symbol) [0x00007FF6BEE0A199]
+	BaseThreadInitThunk [0x00007FF9B1D9259D+29]
+	RtlUserThreadStart [0x00007FF9B31EAF38+40]
+
+2024-11-29 12:37:33,550 - ERROR - Error during scraping: Failed to fill start date fields: Failed to fill start year field
+2024-11-29 12:38:29,159 - INFO - Starting daily scrape
+2024-11-29 12:38:30,305 - INFO - WebDriver setup completed
+2024-11-29 12:39:01,743 - ERROR - Error during scraping: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6BEEA6CB5+28821]
+	(No symbol) [0x00007FF6BEE13840]
+	(No symbol) [0x00007FF6BECB578A]
+	(No symbol) [0x00007FF6BED091BE]
+	(No symbol) [0x00007FF6BED094AC]
+	(No symbol) [0x00007FF6BED52647]
+	(No symbol) [0x00007FF6BED2F33F]
+	(No symbol) [0x00007FF6BED4F412]
+	(No symbol) [0x00007FF6BED2F0A3]
+	(No symbol) [0x00007FF6BECFA778]
+	(No symbol) [0x00007FF6BECFB8E1]
+	GetHandleVerifier [0x00007FF6BF1DFCAD+3408013]
+	GetHandleVerifier [0x00007FF6BF1F741F+3504127]
+	GetHandleVerifier [0x00007FF6BF1EB5FD+3455453]
+	GetHandleVerifier [0x00007FF6BEF6BDBB+835995]
+	(No symbol) [0x00007FF6BEE1EB5F]
+	(No symbol) [0x00007FF6BEE1A814]
+	(No symbol) [0x00007FF6BEE1A9AD]
+	(No symbol) [0x00007FF6BEE0A199]
+	BaseThreadInitThunk [0x00007FF9B1D9259D+29]
+	RtlUserThreadStart [0x00007FF9B31EAF38+40]
+
+2024-11-29 12:39:01,744 - ERROR - Scheduled scrape failed: EOF when reading a line
+2024-11-29 12:40:39,426 - INFO - Starting daily scrape
+2024-11-29 12:40:40,561 - INFO - WebDriver setup completed
+2024-11-29 12:41:39,678 - ERROR - Error during scraping: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6BEEA6CB5+28821]
+	(No symbol) [0x00007FF6BEE13840]
+	(No symbol) [0x00007FF6BECB578A]
+	(No symbol) [0x00007FF6BED091BE]
+	(No symbol) [0x00007FF6BED094AC]
+	(No symbol) [0x00007FF6BED52647]
+	(No symbol) [0x00007FF6BED2F33F]
+	(No symbol) [0x00007FF6BED4F412]
+	(No symbol) [0x00007FF6BED2F0A3]
+	(No symbol) [0x00007FF6BECFA778]
+	(No symbol) [0x00007FF6BECFB8E1]
+	GetHandleVerifier [0x00007FF6BF1DFCAD+3408013]
+	GetHandleVerifier [0x00007FF6BF1F741F+3504127]
+	GetHandleVerifier [0x00007FF6BF1EB5FD+3455453]
+	GetHandleVerifier [0x00007FF6BEF6BDBB+835995]
+	(No symbol) [0x00007FF6BEE1EB5F]
+	(No symbol) [0x00007FF6BEE1A814]
+	(No symbol) [0x00007FF6BEE1A9AD]
+	(No symbol) [0x00007FF6BEE0A199]
+	BaseThreadInitThunk [0x00007FF9B1D9259D+29]
+	RtlUserThreadStart [0x00007FF9B31EAF38+40]
+
+2024-11-29 12:41:39,679 - ERROR - Scheduled scrape failed: EOF when reading a line
+2024-11-29 12:42:31,753 - INFO - Starting daily scrape
+2024-11-29 12:42:32,945 - INFO - WebDriver setup completed
+2024-11-29 12:43:34,341 - ERROR - Error during scraping: Failed to fill end date fields: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6BEEA6CB5+28821]
+	(No symbol) [0x00007FF6BEE13840]
+	(No symbol) [0x00007FF6BECB578A]
+	(No symbol) [0x00007FF6BED091BE]
+	(No symbol) [0x00007FF6BED094AC]
+	(No symbol) [0x00007FF6BED52647]
+	(No symbol) [0x00007FF6BED2F33F]
+	(No symbol) [0x00007FF6BED4F412]
+	(No symbol) [0x00007FF6BED2F0A3]
+	(No symbol) [0x00007FF6BECFA778]
+	(No symbol) [0x00007FF6BECFB8E1]
+	GetHandleVerifier [0x00007FF6BF1DFCAD+3408013]
+	GetHandleVerifier [0x00007FF6BF1F741F+3504127]
+	GetHandleVerifier [0x00007FF6BF1EB5FD+3455453]
+	GetHandleVerifier [0x00007FF6BEF6BDBB+835995]
+	(No symbol) [0x00007FF6BEE1EB5F]
+	(No symbol) [0x00007FF6BEE1A814]
+	(No symbol) [0x00007FF6BEE1A9AD]
+	(No symbol) [0x00007FF6BEE0A199]
+	BaseThreadInitThunk [0x00007FF9B1D9259D+29]
+	RtlUserThreadStart [0x00007FF9B31EAF38+40]
+
+2024-11-29 12:43:34,342 - ERROR - Scheduled scrape failed: EOF when reading a line
+2024-11-30 13:29:52,290 - INFO - Starting daily scrape
+2024-11-30 13:29:54,372 - INFO - WebDriver setup completed
+2024-11-30 13:30:25,160 - ERROR - Error filling date field ////div[@class='ant-row ant-row-start ant-row-middle ant-row-rtl datepicker-inputs']/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/input[1] with value 11: Message: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression ////div[@class='ant-row ant-row-start ant-row-middle ant-row-rtl datepicker-inputs']/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/input[1] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '////div[@class='ant-row ant-row-start ant-row-middle ant-row-rtl datepicker-inputs']/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/input[1]' is not a valid XPath expression."}
+  (Session info: chrome=131.0.6778.86); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6211D6CB5+28821]
+	(No symbol) [0x00007FF621143840]
+	(No symbol) [0x00007FF620FE578A]
+	(No symbol) [0x00007FF620FEC2ED]
+	(No symbol) [0x00007FF620FEEFCC]
+	(No symbol) [0x00007FF620FEF09F]
+	(No symbol) [0x00007FF621038C6A]
+	(No symbol) [0x00007FF6210394AC]
+	(No symbol) [0x00007FF621082647]
+	(No symbol) [0x00007FF62105F33F]
+	(No symbol) [0x00007FF62107F412]
+	(No symbol) [0x00007FF62105F0A3]
+	(No symbol) [0x00007FF62102A778]
+	(No symbol) [0x00007FF62102B8E1]
+	GetHandleVerifier [0x00007FF62150FCAD+3408013]
+	GetHandleVerifier [0x00007FF62152741F+3504127]
+	GetHandleVerifier [0x00007FF62151B5FD+3455453]
+	GetHandleVerifier [0x00007FF62129BDBB+835995]
+	(No symbol) [0x00007FF62114EB5F]
+	(No symbol) [0x00007FF62114A814]
+	(No symbol) [0x00007FF62114A9AD]
+	(No symbol) [0x00007FF62113A199]
+	BaseThreadInitThunk [0x00007FF9B1D9259D+29]
+	RtlUserThreadStart [0x00007FF9B31EAF38+40]
+
+2024-11-30 13:30:25,160 - ERROR - Error during scraping: Failed to fill start date fields: Failed to fill start month field
+2024-11-30 14:00:29,969 - INFO - Starting daily scrape
+2024-11-30 14:00:30,814 - INFO - Browser setup completed
+2024-11-30 14:00:32,349 - ERROR - Error during scraping: name 'browser' is not defined
+2024-11-30 14:04:37,345 - INFO - Starting daily scrape
+2024-11-30 14:04:37,859 - INFO - Browser setup completed
+2024-11-30 14:04:46,056 - INFO - Date fields filled successfully
+2024-11-30 14:04:46,066 - ERROR - Error filling location and price: Locator.click: Error: strict mode violation: locator("//input[contains(@class, 'ant-select-selection-search-input')]") resolved to 8 elements:
+    1) <input value="" type="search" role="combobox" id="rc_select_0" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_0_list" aria-controls="rc_select_0_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_0_list_0"/> aka locator("#rc_select_0")
+    2) <input disabled value="" type="search" role="combobox" id="rc_select_1" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_1_list" aria-controls="rc_select_1_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_1_list_0"/> aka locator("#rc_select_1")
+    3) <input disabled value="" type="search" role="combobox" id="rc_select_2" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_2_list" aria-controls="rc_select_2_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_2_list_0"/> aka locator("#rc_select_2")
+    4) <input readonly value="" type="search" role="combobox" id="rc_select_3" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_3_list" aria-controls="rc_select_3_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_3_list_0"/> aka locator("#rc_select_3")
+    5) <input value="" type="search" role="combobox" id="rc_select_4" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_4_list" aria-controls="rc_select_4_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_4_list_0"/> aka locator("#rc_select_4")
+    6) <input disabled value="" type="search" role="combobox" id="rc_select_5" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_5_list" aria-controls="rc_select_5_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_5_list_0"/> aka locator("#rc_select_5")
+    7) <input disabled value="" type="search" role="combobox" id="rc_select_6" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_6_list" aria-controls="rc_select_6_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_6_list_0"/> aka locator("#rc_select_6")
+    8) <input readonly value="" type="search" role="combobox" id="rc_select_7" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_7_list" aria-controls="rc_select_7_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_7_list_0"/> aka locator("#rc_select_7")
+
+Call log:
+  - waiting for locator("//input[contains(@class, 'ant-select-selection-search-input')]")
+
+2024-11-30 14:04:46,066 - ERROR - Error during scraping: Locator.click: Error: strict mode violation: locator("//input[contains(@class, 'ant-select-selection-search-input')]") resolved to 8 elements:
+    1) <input value="" type="search" role="combobox" id="rc_select_0" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_0_list" aria-controls="rc_select_0_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_0_list_0"/> aka locator("#rc_select_0")
+    2) <input disabled value="" type="search" role="combobox" id="rc_select_1" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_1_list" aria-controls="rc_select_1_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_1_list_0"/> aka locator("#rc_select_1")
+    3) <input disabled value="" type="search" role="combobox" id="rc_select_2" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_2_list" aria-controls="rc_select_2_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_2_list_0"/> aka locator("#rc_select_2")
+    4) <input readonly value="" type="search" role="combobox" id="rc_select_3" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_3_list" aria-controls="rc_select_3_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_3_list_0"/> aka locator("#rc_select_3")
+    5) <input value="" type="search" role="combobox" id="rc_select_4" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_4_list" aria-controls="rc_select_4_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_4_list_0"/> aka locator("#rc_select_4")
+    6) <input disabled value="" type="search" role="combobox" id="rc_select_5" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_5_list" aria-controls="rc_select_5_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_5_list_0"/> aka locator("#rc_select_5")
+    7) <input disabled value="" type="search" role="combobox" id="rc_select_6" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_6_list" aria-controls="rc_select_6_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_6_list_0"/> aka locator("#rc_select_6")
+    8) <input readonly value="" type="search" role="combobox" id="rc_select_7" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_7_list" aria-controls="rc_select_7_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_7_list_0"/> aka locator("#rc_select_7")
+
+Call log:
+  - waiting for locator("//input[contains(@class, 'ant-select-selection-search-input')]")
+
+2024-11-30 14:05:06,613 - INFO - Starting daily scrape
+2024-11-30 14:05:07,125 - INFO - Browser setup completed
+2024-11-30 14:05:15,554 - INFO - Date fields filled successfully
+2024-11-30 14:05:15,564 - ERROR - Error filling location and price: Locator.click: Error: strict mode violation: locator("//input[contains(@class, 'ant-select-selection-search-input')]") resolved to 8 elements:
+    1) <input value="" type="search" role="combobox" id="rc_select_0" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_0_list" aria-controls="rc_select_0_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_0_list_0"/> aka locator("#rc_select_0")
+    2) <input disabled value="" type="search" role="combobox" id="rc_select_1" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_1_list" aria-controls="rc_select_1_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_1_list_0"/> aka locator("#rc_select_1")
+    3) <input disabled value="" type="search" role="combobox" id="rc_select_2" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_2_list" aria-controls="rc_select_2_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_2_list_0"/> aka locator("#rc_select_2")
+    4) <input readonly value="" type="search" role="combobox" id="rc_select_3" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_3_list" aria-controls="rc_select_3_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_3_list_0"/> aka locator("#rc_select_3")
+    5) <input value="" type="search" role="combobox" id="rc_select_4" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_4_list" aria-controls="rc_select_4_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_4_list_0"/> aka locator("#rc_select_4")
+    6) <input disabled value="" type="search" role="combobox" id="rc_select_5" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_5_list" aria-controls="rc_select_5_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_5_list_0"/> aka locator("#rc_select_5")
+    7) <input disabled value="" type="search" role="combobox" id="rc_select_6" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_6_list" aria-controls="rc_select_6_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_6_list_0"/> aka locator("#rc_select_6")
+    8) <input readonly value="" type="search" role="combobox" id="rc_select_7" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_7_list" aria-controls="rc_select_7_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_7_list_0"/> aka locator("#rc_select_7")
+
+Call log:
+  - waiting for locator("//input[contains(@class, 'ant-select-selection-search-input')]")
+
+2024-11-30 14:05:15,564 - ERROR - Error during scraping: Locator.click: Error: strict mode violation: locator("//input[contains(@class, 'ant-select-selection-search-input')]") resolved to 8 elements:
+    1) <input value="" type="search" role="combobox" id="rc_select_0" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_0_list" aria-controls="rc_select_0_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_0_list_0"/> aka locator("#rc_select_0")
+    2) <input disabled value="" type="search" role="combobox" id="rc_select_1" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_1_list" aria-controls="rc_select_1_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_1_list_0"/> aka locator("#rc_select_1")
+    3) <input disabled value="" type="search" role="combobox" id="rc_select_2" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_2_list" aria-controls="rc_select_2_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_2_list_0"/> aka locator("#rc_select_2")
+    4) <input readonly value="" type="search" role="combobox" id="rc_select_3" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_3_list" aria-controls="rc_select_3_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_3_list_0"/> aka locator("#rc_select_3")
+    5) <input value="" type="search" role="combobox" id="rc_select_4" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_4_list" aria-controls="rc_select_4_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_4_list_0"/> aka locator("#rc_select_4")
+    6) <input disabled value="" type="search" role="combobox" id="rc_select_5" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_5_list" aria-controls="rc_select_5_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_5_list_0"/> aka locator("#rc_select_5")
+    7) <input disabled value="" type="search" role="combobox" id="rc_select_6" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_6_list" aria-controls="rc_select_6_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_6_list_0"/> aka locator("#rc_select_6")
+    8) <input readonly value="" type="search" role="combobox" id="rc_select_7" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_7_list" aria-controls="rc_select_7_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_7_list_0"/> aka locator("#rc_select_7")
+
+Call log:
+  - waiting for locator("//input[contains(@class, 'ant-select-selection-search-input')]")
+
+2024-11-30 14:06:33,801 - INFO - Starting daily scrape
+2024-11-30 14:06:34,310 - INFO - Browser setup completed
+2024-11-30 14:06:42,619 - INFO - Date fields filled successfully
+2024-11-30 14:06:42,629 - ERROR - Error filling location and price: Locator.click: Error: strict mode violation: locator("//input[contains(@class, 'ant-select-selection-search-input')]") resolved to 8 elements:
+    1) <input value="" type="search" role="combobox" id="rc_select_0" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_0_list" aria-controls="rc_select_0_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_0_list_0"/> aka locator("#rc_select_0")
+    2) <input disabled value="" type="search" role="combobox" id="rc_select_1" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_1_list" aria-controls="rc_select_1_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_1_list_0"/> aka locator("#rc_select_1")
+    3) <input disabled value="" type="search" role="combobox" id="rc_select_2" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_2_list" aria-controls="rc_select_2_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_2_list_0"/> aka locator("#rc_select_2")
+    4) <input readonly value="" type="search" role="combobox" id="rc_select_3" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_3_list" aria-controls="rc_select_3_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_3_list_0"/> aka locator("#rc_select_3")
+    5) <input value="" type="search" role="combobox" id="rc_select_4" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_4_list" aria-controls="rc_select_4_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_4_list_0"/> aka locator("#rc_select_4")
+    6) <input disabled value="" type="search" role="combobox" id="rc_select_5" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_5_list" aria-controls="rc_select_5_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_5_list_0"/> aka locator("#rc_select_5")
+    7) <input disabled value="" type="search" role="combobox" id="rc_select_6" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_6_list" aria-controls="rc_select_6_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_6_list_0"/> aka locator("#rc_select_6")
+    8) <input readonly value="" type="search" role="combobox" id="rc_select_7" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_7_list" aria-controls="rc_select_7_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_7_list_0"/> aka locator("#rc_select_7")
+
+Call log:
+  - waiting for locator("//input[contains(@class, 'ant-select-selection-search-input')]")
+
+2024-11-30 14:06:42,629 - ERROR - Error during scraping: Locator.click: Error: strict mode violation: locator("//input[contains(@class, 'ant-select-selection-search-input')]") resolved to 8 elements:
+    1) <input value="" type="search" role="combobox" id="rc_select_0" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_0_list" aria-controls="rc_select_0_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_0_list_0"/> aka locator("#rc_select_0")
+    2) <input disabled value="" type="search" role="combobox" id="rc_select_1" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_1_list" aria-controls="rc_select_1_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_1_list_0"/> aka locator("#rc_select_1")
+    3) <input disabled value="" type="search" role="combobox" id="rc_select_2" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_2_list" aria-controls="rc_select_2_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_2_list_0"/> aka locator("#rc_select_2")
+    4) <input readonly value="" type="search" role="combobox" id="rc_select_3" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_3_list" aria-controls="rc_select_3_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_3_list_0"/> aka locator("#rc_select_3")
+    5) <input value="" type="search" role="combobox" id="rc_select_4" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_4_list" aria-controls="rc_select_4_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_4_list_0"/> aka locator("#rc_select_4")
+    6) <input disabled value="" type="search" role="combobox" id="rc_select_5" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_5_list" aria-controls="rc_select_5_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_5_list_0"/> aka locator("#rc_select_5")
+    7) <input disabled value="" type="search" role="combobox" id="rc_select_6" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_6_list" aria-controls="rc_select_6_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_6_list_0"/> aka locator("#rc_select_6")
+    8) <input readonly value="" type="search" role="combobox" id="rc_select_7" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_7_list" aria-controls="rc_select_7_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_7_list_0"/> aka locator("#rc_select_7")
+
+Call log:
+  - waiting for locator("//input[contains(@class, 'ant-select-selection-search-input')]")
+
+2024-11-30 14:06:50,247 - INFO - Starting daily scrape
+2024-11-30 14:06:50,738 - INFO - Browser setup completed
+2024-11-30 14:06:58,904 - INFO - Date fields filled successfully
+2024-11-30 14:06:58,915 - ERROR - Error filling location and price: Locator.click: Error: strict mode violation: locator("//input[contains(@class, 'ant-select-selection-search-input')]") resolved to 8 elements:
+    1) <input value="" type="search" role="combobox" id="rc_select_0" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_0_list" aria-controls="rc_select_0_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_0_list_0"/> aka locator("#rc_select_0")
+    2) <input disabled value="" type="search" role="combobox" id="rc_select_1" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_1_list" aria-controls="rc_select_1_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_1_list_0"/> aka locator("#rc_select_1")
+    3) <input disabled value="" type="search" role="combobox" id="rc_select_2" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_2_list" aria-controls="rc_select_2_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_2_list_0"/> aka locator("#rc_select_2")
+    4) <input readonly value="" type="search" role="combobox" id="rc_select_3" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_3_list" aria-controls="rc_select_3_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_3_list_0"/> aka locator("#rc_select_3")
+    5) <input value="" type="search" role="combobox" id="rc_select_4" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_4_list" aria-controls="rc_select_4_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_4_list_0"/> aka locator("#rc_select_4")
+    6) <input disabled value="" type="search" role="combobox" id="rc_select_5" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_5_list" aria-controls="rc_select_5_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_5_list_0"/> aka locator("#rc_select_5")
+    7) <input disabled value="" type="search" role="combobox" id="rc_select_6" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_6_list" aria-controls="rc_select_6_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_6_list_0"/> aka locator("#rc_select_6")
+    8) <input readonly value="" type="search" role="combobox" id="rc_select_7" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_7_list" aria-controls="rc_select_7_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_7_list_0"/> aka locator("#rc_select_7")
+
+Call log:
+  - waiting for locator("//input[contains(@class, 'ant-select-selection-search-input')]")
+
+2024-11-30 14:06:58,915 - ERROR - Error during scraping: Locator.click: Error: strict mode violation: locator("//input[contains(@class, 'ant-select-selection-search-input')]") resolved to 8 elements:
+    1) <input value="" type="search" role="combobox" id="rc_select_0" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_0_list" aria-controls="rc_select_0_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_0_list_0"/> aka locator("#rc_select_0")
+    2) <input disabled value="" type="search" role="combobox" id="rc_select_1" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_1_list" aria-controls="rc_select_1_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_1_list_0"/> aka locator("#rc_select_1")
+    3) <input disabled value="" type="search" role="combobox" id="rc_select_2" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_2_list" aria-controls="rc_select_2_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_2_list_0"/> aka locator("#rc_select_2")
+    4) <input readonly value="" type="search" role="combobox" id="rc_select_3" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_3_list" aria-controls="rc_select_3_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_3_list_0"/> aka locator("#rc_select_3")
+    5) <input value="" type="search" role="combobox" id="rc_select_4" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_4_list" aria-controls="rc_select_4_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_4_list_0"/> aka locator("#rc_select_4")
+    6) <input disabled value="" type="search" role="combobox" id="rc_select_5" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_5_list" aria-controls="rc_select_5_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_5_list_0"/> aka locator("#rc_select_5")
+    7) <input disabled value="" type="search" role="combobox" id="rc_select_6" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_6_list" aria-controls="rc_select_6_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_6_list_0"/> aka locator("#rc_select_6")
+    8) <input readonly value="" type="search" role="combobox" id="rc_select_7" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_7_list" aria-controls="rc_select_7_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_7_list_0"/> aka locator("#rc_select_7")
+
+Call log:
+  - waiting for locator("//input[contains(@class, 'ant-select-selection-search-input')]")
+
+2024-11-30 14:09:32,778 - INFO - Starting daily scrape
+2024-11-30 14:09:33,295 - INFO - Browser setup completed
+2024-11-30 14:10:27,592 - INFO - Date fields filled successfully
+2024-11-30 14:10:32,613 - ERROR - Error filling location and price: Locator.click: Error: strict mode violation: locator("//input[contains(@class, 'ant-select-selection-search-input')]") resolved to 8 elements:
+    1) <input value="" type="search" role="combobox" id="rc_select_0" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_0_list" aria-controls="rc_select_0_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_0_list_0"/> aka locator("#rc_select_0")
+    2) <input disabled value="" type="search" role="combobox" id="rc_select_1" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_1_list" aria-controls="rc_select_1_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_1_list_0"/> aka locator("#rc_select_1")
+    3) <input disabled value="" type="search" role="combobox" id="rc_select_2" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_2_list" aria-controls="rc_select_2_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_2_list_0"/> aka locator("#rc_select_2")
+    4) <input readonly value="" type="search" role="combobox" id="rc_select_3" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_3_list" aria-controls="rc_select_3_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_3_list_0"/> aka locator("#rc_select_3")
+    5) <input value="" type="search" role="combobox" id="rc_select_4" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_4_list" aria-controls="rc_select_4_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_4_list_0"/> aka locator("#rc_select_4")
+    6) <input disabled value="" type="search" role="combobox" id="rc_select_5" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_5_list" aria-controls="rc_select_5_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_5_list_0"/> aka locator("#rc_select_5")
+    7) <input disabled value="" type="search" role="combobox" id="rc_select_6" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_6_list" aria-controls="rc_select_6_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_6_list_0"/> aka locator("#rc_select_6")
+    8) <input readonly value="" type="search" role="combobox" id="rc_select_7" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_7_list" aria-controls="rc_select_7_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_7_list_0"/> aka locator("#rc_select_7")
+
+Call log:
+  - waiting for locator("//input[contains(@class, 'ant-select-selection-search-input')]")
+
+2024-11-30 14:10:32,613 - ERROR - Error during scraping: Locator.click: Error: strict mode violation: locator("//input[contains(@class, 'ant-select-selection-search-input')]") resolved to 8 elements:
+    1) <input value="" type="search" role="combobox" id="rc_select_0" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_0_list" aria-controls="rc_select_0_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_0_list_0"/> aka locator("#rc_select_0")
+    2) <input disabled value="" type="search" role="combobox" id="rc_select_1" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_1_list" aria-controls="rc_select_1_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_1_list_0"/> aka locator("#rc_select_1")
+    3) <input disabled value="" type="search" role="combobox" id="rc_select_2" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_2_list" aria-controls="rc_select_2_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_2_list_0"/> aka locator("#rc_select_2")
+    4) <input readonly value="" type="search" role="combobox" id="rc_select_3" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_3_list" aria-controls="rc_select_3_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_3_list_0"/> aka locator("#rc_select_3")
+    5) <input value="" type="search" role="combobox" id="rc_select_4" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_4_list" aria-controls="rc_select_4_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_4_list_0"/> aka locator("#rc_select_4")
+    6) <input disabled value="" type="search" role="combobox" id="rc_select_5" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_5_list" aria-controls="rc_select_5_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_5_list_0"/> aka locator("#rc_select_5")
+    7) <input disabled value="" type="search" role="combobox" id="rc_select_6" autocomplete="off" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_6_list" aria-controls="rc_select_6_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_6_list_0"/> aka locator("#rc_select_6")
+    8) <input readonly value="" type="search" role="combobox" id="rc_select_7" unselectable="on" autocomplete="off" aria-haspopup="listbox" aria-autocomplete="list" aria-owns="rc_select_7_list" aria-controls="rc_select_7_list" class="ant-select-selection-search-input" aria-activedescendant="rc_select_7_list_0"/> aka locator("#rc_select_7")
+
+Call log:
+  - waiting for locator("//input[contains(@class, 'ant-select-selection-search-input')]")
+
+2024-11-30 14:16:43,930 - INFO - Starting daily scrape
+2024-11-30 14:16:44,441 - INFO - Browser setup completed
+2024-11-30 14:17:38,753 - INFO - Date fields filled successfully
+2024-11-30 14:17:43,772 - WARNING - Could not fill location: Locator.click: Unexpected token "/" while parsing selector "/html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]/input"
+Call log:
+  - waiting for /html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]/input
+
+2024-11-30 14:18:16,792 - ERROR - Error filling location and price: 'charmap' codec can't encode characters in position 141-143: character maps to <undefined>
+2024-11-30 14:18:29,089 - INFO - Search button clicked successfully
+2024-11-30 14:20:49,089 - ERROR - Error during scraping: EOF when reading a line
+2024-11-30 14:26:13,436 - INFO - Starting daily scrape
+2024-11-30 14:26:13,949 - INFO - Browser setup completed
+2024-11-30 14:27:08,048 - INFO - Date fields filled successfully
+2024-11-30 14:27:13,054 - WARNING - Could not fill location: Locator.click: Unexpected token "/" while parsing selector "/html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]/input"
+Call log:
+  - waiting for /html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]/input
+
+2024-11-30 14:27:21,161 - INFO - Location and price fields handling completed
+2024-11-30 14:27:33,229 - INFO - Search button clicked successfully
+2024-11-30 14:29:53,230 - ERROR - Error during scraping: EOF when reading a line
+2024-11-30 14:36:32,135 - INFO - Starting daily scrape
+2024-11-30 14:36:32,656 - INFO - Browser setup completed
+2024-11-30 14:37:26,789 - INFO - Date fields filled successfully
+2024-11-30 14:37:31,799 - WARNING - Could not fill location: Locator.click: Unexpected token "/" while parsing selector "/html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]/input"
+Call log:
+  - waiting for /html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]/input
+
+2024-11-30 14:37:39,906 - INFO - Location and price fields handling completed
+2024-11-30 14:37:52,008 - INFO - Search button clicked successfully
+2024-11-30 15:09:29,862 - INFO - Scraping completed successfully
+2024-11-30 15:09:32,505 - INFO - Starting daily scrape
+2024-11-30 15:09:33,023 - INFO - Browser setup completed
+2024-11-30 15:10:27,152 - INFO - Date fields filled successfully
+2024-11-30 15:10:32,170 - WARNING - Could not fill location: Locator.click: Unexpected token "/" while parsing selector "/html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]/input"
+Call log:
+  - waiting for /html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]/input
+
+2024-11-30 15:10:40,264 - INFO - Location and price fields handling completed
+2024-11-30 15:10:52,353 - INFO - Search button clicked successfully
+2024-11-30 15:13:12,355 - INFO - Scraping completed successfully
+2024-11-30 15:13:33,149 - INFO - Starting daily scrape
+2024-11-30 15:13:33,667 - INFO - Browser setup completed
+2024-11-30 15:14:27,927 - INFO - Date fields filled successfully
+2024-11-30 15:14:32,943 - WARNING - Could not fill location: Locator.click: Unexpected token "/" while parsing selector "/html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]"
+Call log:
+  - waiting for /html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]
+
+2024-11-30 15:14:41,043 - INFO - Location and price fields handling completed
+2024-11-30 15:14:53,106 - INFO - Search button clicked successfully
+2024-11-30 15:15:16,029 - INFO - Scraping completed successfully
+2024-11-30 15:17:01,830 - INFO - Starting daily scrape
+2024-11-30 15:17:02,358 - INFO - Browser setup completed
+2024-11-30 15:18:02,801 - INFO - Date fields filled successfully
+2024-11-30 15:18:07,812 - WARNING - Could not fill location: Locator.click: Unexpected token "/" while parsing selector "/html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]"
+Call log:
+  - waiting for /html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]
+
+2024-11-30 15:18:15,882 - INFO - Location and price fields handling completed
+2024-11-30 15:18:19,889 - WARNING - Error clicking search button: Locator.is_visible: Target page, context or browser has been closed
+2024-11-30 15:18:48,044 - INFO - Scraping completed successfully
+2024-11-30 15:18:49,494 - INFO - Starting daily scrape
+2024-11-30 15:18:50,001 - INFO - Browser setup completed
+2024-11-30 15:19:50,392 - INFO - Date fields filled successfully
+2024-11-30 15:19:54,396 - WARNING - Could not fill location: Locator.click: Target page, context or browser has been closed
+2024-11-30 15:19:54,397 - ERROR - Error filling location and price: Page.evaluate: Target page, context or browser has been closed
+2024-11-30 15:19:58,404 - WARNING - Error clicking search button: Locator.is_visible: Target page, context or browser has been closed
+2024-11-30 15:20:22,436 - INFO - Scraping completed successfully
+2024-11-30 15:20:23,857 - INFO - Starting daily scrape
+2024-11-30 15:20:24,356 - INFO - Browser setup completed
+2024-11-30 15:21:34,604 - INFO - Date fields filled successfully
+2024-11-30 15:21:39,616 - WARNING - Could not fill location: Locator.click: Unexpected token "/" while parsing selector "/html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]"
+Call log:
+  - waiting for /html/body/div[1]/div/div/div/div/section/main/div/div[1]/div/div[1]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/span[1]
+
+2024-11-30 15:21:47,693 - INFO - Location and price fields handling completed
+2024-11-30 15:21:59,792 - INFO - Search button clicked successfully
+2024-11-30 15:22:25,724 - INFO - Scraping completed successfully
+2024-11-30 15:30:48,175 - INFO - Starting daily scrape
+2024-11-30 15:30:48,685 - INFO - Browser setup completed
+2024-11-30 15:31:03,726 - ERROR - Error filling date fields: name 'yesterday_year' is not defined
+2024-11-30 15:31:03,726 - ERROR - Error during scraping: name 'yesterday_year' is not defined
+2024-11-30 15:31:49,522 - INFO - Starting daily scrape
+2024-11-30 15:31:50,018 - INFO - Browser setup completed
+2024-11-30 15:33:00,315 - INFO - Date fields filled successfully
+2024-11-30 15:33:12,407 - INFO - Location and price fields handling completed
+2024-11-30 15:33:24,484 - INFO - Search button clicked successfully
+2024-11-30 15:34:00,690 - INFO - Scraping completed successfully
+2024-11-30 15:42:12,109 - INFO - Starting daily scrape
+2024-11-30 15:42:12,622 - INFO - Browser setup completed
+2024-11-30 15:43:22,895 - INFO - Date fields filled successfully
+2024-11-30 15:43:34,998 - INFO - Location and price fields handling completed
+2024-11-30 15:43:47,069 - INFO - Search button clicked successfully
+2024-11-30 15:48:56,648 - INFO - Scraping completed successfully
+2024-11-30 15:53:00,214 - INFO - Starting daily scrape
+2024-11-30 15:53:00,725 - INFO - Browser setup completed
+2024-11-30 15:53:54,185 - INFO - Date fields filled successfully
+2024-11-30 15:54:06,273 - INFO - Location and price fields handling completed
+2024-11-30 15:54:18,357 - INFO - Search button clicked successfully
+2024-11-30 15:54:53,369 - INFO - District 1: \u0639\u0631\u064a\u0636, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,370 - INFO - District 2: \u0627\u0644\u0633\u0639\u0627\u062f\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,370 - INFO - District 3: \u0627\u0644\u0646\u0638\u064a\u0645, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,370 - INFO - District 4: \u0638\u0647\u0631\u0629 \u0645\u0646\u0641\u0648\u062d\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,370 - INFO - District 5: \u0645\u0646\u0641\u0648\u062d\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,370 - INFO - District 6: \u0627\u0644\u0646\u0638\u064a\u0645, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,370 - INFO - District 7: \u0627\u0644\u0646\u0638\u064a\u0645, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,370 - INFO - District 8: \u0627\u0644\u0633\u0639\u0627\u062f\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,370 - INFO - District 9: \u0627\u0644\u0645\u0631\u0648\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,370 - INFO - District 10: \u0627\u0644\u0639\u0642\u064a\u0642, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,370 - INFO - District 11: \u0639\u0631\u064a\u0636, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,370 - INFO - District 12: \u0639\u0631\u064a\u0636, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,371 - INFO - District 13: \u0627\u0644\u0646\u062e\u064a\u0644, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,371 - INFO - District 14: \u0627\u0644\u0646\u062e\u064a\u0644, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,371 - INFO - District 15: \u0627\u0644\u0646\u062e\u064a\u0644, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,371 - INFO - District 16: \u0627\u0644\u0646\u062e\u064a\u0644, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,371 - INFO - District 17: \u0627\u0644\u0635\u062d\u0627\u0641\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,371 - INFO - District 18: \u0627\u0644\u062c\u0646\u0627\u062f\u0631\u064a\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,371 - INFO - District 19: \u0627\u0644\u062c\u0646\u0627\u062f\u0631\u064a\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,371 - INFO - District 20: \u062d\u0637\u064a\u0646, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:54:53,371 - INFO - District 21: \u062d\u0637\u064a\u0646, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 15:57:34,335 - INFO - Scraping completed successfully
+2024-11-30 16:06:52,884 - INFO - Starting daily scrape
+2024-11-30 16:06:53,391 - INFO - Browser setup completed
+2024-11-30 16:07:46,718 - INFO - Date fields filled successfully
+2024-11-30 16:07:58,817 - INFO - Location and price fields handling completed
+2024-11-30 16:08:10,891 - INFO - Search button clicked successfully
+2024-11-30 16:08:45,903 - INFO - District 1: \u0627\u0644\u0641\u0627\u0631\u0648\u0642, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,903 - INFO - District 2: \u0639\u0631\u064a\u0636, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,903 - INFO - District 3: \u0627\u0644\u0633\u0639\u0627\u062f\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,903 - INFO - District 4: \u0627\u0644\u0646\u0638\u064a\u0645, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,903 - INFO - District 5: \u0638\u0647\u0631\u0629 \u0645\u0646\u0641\u0648\u062d\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,903 - INFO - District 6: \u0645\u0646\u0641\u0648\u062d\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 7: \u0627\u0644\u0646\u0638\u064a\u0645, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 8: \u0627\u0644\u0646\u0638\u064a\u0645, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 9: \u0627\u0644\u0633\u0639\u0627\u062f\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 10: \u0627\u0644\u0645\u0631\u0648\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 11: \u0627\u0644\u0639\u0642\u064a\u0642, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 12: \u0639\u0631\u064a\u0636, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 13: \u0639\u0631\u064a\u0636, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 14: \u0627\u0644\u0646\u062e\u064a\u0644, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 15: \u0627\u0644\u0646\u062e\u064a\u0644, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 16: \u0627\u0644\u0646\u062e\u064a\u0644, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 17: \u0627\u0644\u0646\u062e\u064a\u0644, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 18: \u0627\u0644\u0635\u062d\u0627\u0641\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,904 - INFO - District 19: \u0627\u0644\u062c\u0646\u0627\u062f\u0631\u064a\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,905 - INFO - District 20: \u0627\u0644\u062c\u0646\u0627\u062f\u0631\u064a\u0629, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,905 - INFO - District 21: \u062d\u0637\u064a\u0646, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:08:45,905 - INFO - District 22: \u062d\u0637\u064a\u0646, \u0627\u0644\u0631\u064a\u0627\u0636
+2024-11-30 16:09:06,422 - INFO - Scraping completed successfully
+2024-11-30 16:12:57,531 - INFO - Starting daily scrape
+2024-11-30 16:12:58,043 - INFO - Browser setup completed
+2024-11-30 16:13:51,621 - INFO - Date fields filled successfully
+2024-11-30 16:14:03,712 - INFO - Location and price fields handling completed
+2024-11-30 16:14:15,805 - INFO - Search button clicked successfully
+2024-11-30 16:14:35,815 - WARNING - No deals found in the extraction
+2024-11-30 16:14:42,805 - INFO - Scraping completed successfully
+2024-11-30 16:18:27,581 - INFO - Starting daily scrape
+2024-11-30 16:18:28,113 - INFO - Browser setup completed
+2024-11-30 16:19:21,524 - INFO - Date fields filled successfully
+2024-11-30 16:19:33,602 - INFO - Location and price fields handling completed
+2024-11-30 16:19:45,682 - INFO - Search button clicked successfully
+2024-11-30 16:20:05,694 - ERROR - Error during price extraction: Locator.all: Unsupported token "@class" while parsing selector "/descendant-or-self::DIV[contains(@class,'ant-row ant-row-start ant-row-middle ant-row-rtl')][2]/DIV[1]/DIV[1]/DIV[1]/SPAN[1]"
+2024-11-30 16:20:05,694 - ERROR - Error during scraping: EOF when reading a line
+2024-11-30 16:22:26,232 - INFO - Starting daily scrape
+2024-11-30 16:22:26,737 - INFO - Browser setup completed
+2024-11-30 16:23:20,150 - INFO - Date fields filled successfully
+2024-11-30 16:23:32,216 - INFO - Location and price fields handling completed
+2024-11-30 16:23:44,291 - INFO - Search button clicked successfully
+2024-11-30 16:24:04,304 - ERROR - Error during price extraction: Locator.all: Unsupported token "@class" while parsing selector "/descendant-or-self::DIV[contains(@class,'ant-row ant-row-start ant-row-middle ant-row-rtl')][2]/DIV[1]/DIV[1]/DIV[1]/SPAN[1]"
+2024-11-30 16:24:27,508 - INFO - Scraping completed successfully
+2024-11-30 16:25:43,710 - INFO - Starting daily scrape
+2024-11-30 16:25:44,216 - INFO - Browser setup completed
+2024-11-30 16:26:38,071 - INFO - Date fields filled successfully
+2024-11-30 16:26:50,171 - INFO - Location and price fields handling completed
+2024-11-30 16:27:02,236 - INFO - Search button clicked successfully
+2024-11-30 16:27:22,253 - INFO - Price #1: 858,600
+2024-11-30 16:27:22,257 - INFO - Price #2: 963,500
+2024-11-30 16:27:22,261 - INFO - Price #3: 963,500
+2024-11-30 16:27:22,264 - INFO - Price #4: 820,000
+2024-11-30 16:27:22,266 - INFO - Price #5: 320,000
+2024-11-30 16:27:22,268 - INFO - Price #6: 2,229,256
+2024-11-30 16:27:22,271 - INFO - Price #7: 480,000
+2024-11-30 16:27:22,273 - INFO - Price #8: 100,000
+2024-11-30 16:27:22,276 - INFO - Price #9: 100,000
+2024-11-30 16:27:22,279 - INFO - Price #10: 591,500
+2024-11-30 16:27:22,281 - INFO - Price #11: 591,000
+2024-11-30 16:27:22,283 - INFO - Price #12: 886,291
+2024-11-30 16:27:22,286 - INFO - Price #13: 580,000
+2024-11-30 16:27:22,288 - INFO - Price #14: 1,510,000
+2024-11-30 16:27:22,290 - INFO - Price #15: 400,000
+2024-11-30 16:27:22,293 - INFO - Price #16: 475,000
+2024-11-30 16:27:22,295 - INFO - Price #17: 47,830,308
+2024-11-30 16:27:22,298 - INFO - Price #18: 47,830,308
+2024-11-30 16:27:22,300 - INFO - Price #19: 47,830,308
+2024-11-30 16:27:22,303 - INFO - Price #20: 47,830,308
+2024-11-30 16:27:22,305 - INFO - Price #21: 655,000,000
+2024-11-30 16:27:22,308 - INFO - Price #22: 4,000,000
+2024-11-30 16:27:22,310 - INFO - Price #23: 4,100,000
+2024-11-30 16:28:12,051 - INFO - Scraping completed successfully
+2024-11-30 18:41:24,490 - INFO - Starting daily scrape
+2024-11-30 18:41:28,678 - INFO - Browser setup completed
+2024-11-30 18:42:22,225 - INFO - Date fields filled successfully
+2024-11-30 18:42:34,319 - INFO - Location and price fields handling completed
+2024-11-30 18:42:46,428 - INFO - Search button clicked successfully
+2024-11-30 18:46:22,559 - INFO - Scraping completed successfully
+2024-11-30 18:46:24,027 - INFO - Starting daily scrape
+2024-11-30 18:46:24,556 - INFO - Browser setup completed
+2024-11-30 18:47:17,973 - INFO - Date fields filled successfully
+2024-11-30 18:47:30,075 - INFO - Location and price fields handling completed
+2024-11-30 18:47:42,142 - INFO - Search button clicked successfully
+2024-11-30 18:47:54,593 - INFO - Scraping completed successfully
+2024-11-30 18:50:56,055 - INFO - Starting daily scrape
+2024-11-30 18:50:56,568 - INFO - Browser setup completed
+2024-11-30 18:51:49,820 - INFO - Date fields filled successfully
+2024-11-30 18:52:01,911 - INFO - Location and price fields handling completed
+2024-11-30 18:52:13,992 - INFO - Search button clicked successfully
+2024-11-30 18:52:34,008 - INFO - Price #1: 820,000
+2024-11-30 18:52:34,014 - INFO - Price #2: 600,000
+2024-11-30 18:52:34,018 - INFO - Price #3: 250,000
+2024-11-30 18:52:34,021 - INFO - Price #4: 820,000
+2024-11-30 18:52:34,024 - INFO - Price #5: 820,000
+2024-11-30 18:52:34,027 - INFO - Price #6: 550,000
+2024-11-30 18:52:34,030 - INFO - Price #7: 820,000
+2024-11-30 18:52:34,033 - INFO - Price #8: 820,000
+2024-11-30 18:52:34,036 - INFO - Price #9: 820,000
+2024-11-30 18:52:34,039 - INFO - Price #10: 650,000
+2024-11-30 18:52:34,042 - INFO - Price #11: 820,000
+2024-11-30 18:52:34,045 - INFO - Price #12: 820,000
+2024-11-30 18:52:34,047 - INFO - Price #13: 923,000
+2024-11-30 18:52:34,050 - INFO - Price #14: 529,805
+2024-11-30 18:52:34,053 - INFO - Price #15: 820,000
+2024-11-30 18:52:34,058 - INFO - Price #16: 529,788
+2024-11-30 18:52:34,063 - INFO - Price #17: 820,000
+2024-11-30 18:52:34,066 - INFO - Price #18: 1,025,000
+2024-11-30 18:52:34,069 - INFO - Price #19: 1,025,000
+2024-11-30 18:52:34,072 - INFO - Price #20: 858,600
+2024-11-30 18:52:34,074 - INFO - Price #21: 858,600
+2024-11-30 18:52:34,077 - INFO - Price #22: 963,500
+2024-11-30 18:52:34,079 - INFO - Price #23: 963,500
+2024-11-30 18:52:34,082 - INFO - Price #24: 820,000
+2024-11-30 18:52:34,085 - INFO - Price #25: 320,000
+2024-11-30 18:52:34,088 - INFO - Price #26: 2,229,256
+2024-11-30 18:52:34,090 - INFO - Price #27: 480,000
+2024-11-30 18:52:34,093 - INFO - Price #28: 100,000
+2024-11-30 18:52:34,096 - INFO - Price #29: 100,000
+2024-11-30 18:52:34,100 - INFO - Price #30: 591,500
+2024-11-30 18:52:34,105 - INFO - Price #31: 591,000
+2024-11-30 18:52:34,107 - INFO - Price #32: 886,291
+2024-11-30 18:52:34,110 - INFO - Price #33: 580,000
+2024-11-30 18:52:34,113 - INFO - Price #34: 1,510,000
+2024-11-30 18:52:34,116 - INFO - Price #35: 400,000
+2024-11-30 18:52:34,118 - INFO - Price #36: 475,000
+2024-11-30 18:52:34,121 - INFO - Price #37: 47,830,308
+2024-11-30 18:52:34,123 - INFO - Price #38: 47,830,308
+2024-11-30 18:52:34,126 - INFO - Price #39: 47,830,308
+2024-11-30 18:52:34,129 - INFO - Price #40: 47,830,308
+2024-11-30 18:52:34,134 - INFO - Price #41: 655,000,000
+2024-11-30 18:52:34,137 - INFO - Price #42: 4,000,000
+2024-11-30 18:52:34,140 - INFO - Price #43: 4,100,000
+2024-11-30 18:52:50,000 - INFO - Scraping completed successfully
+2024-11-30 20:08:15,834 - INFO - Starting daily scrape
+2024-11-30 20:08:16,365 - INFO - Browser setup completed
+2024-11-30 20:09:09,845 - INFO - Date fields filled successfully
+2024-11-30 20:09:21,924 - INFO - Location and price fields handling completed
+2024-11-30 20:09:34,006 - INFO - Search button clicked successfully
+2024-11-30 20:10:10,359 - INFO - Scraping completed successfully
+2024-11-30 20:11:58,719 - INFO - Starting daily scrape
+2024-11-30 20:11:59,222 - INFO - Browser setup completed
+2024-11-30 20:12:52,644 - INFO - Date fields filled successfully
+2024-11-30 20:13:04,743 - INFO - Location and price fields handling completed
+2024-11-30 20:13:16,835 - INFO - Search button clicked successfully
+2024-11-30 20:13:36,853 - ERROR - Error scraping card 1: Locator.inner_text: Unexpected token "(" while parsing selector "(/html/body/div[1]/div/div/div/div/section/main/div/div[2]/div[2]/div[3]/div/div[1]/div/div/div/ul/a[1]/div/div[1]/div[1]/h3)"
+Call log:
+  - waiting for (/html/body/div[1]/div/div/div/div/section/main/div/div[2]/div[2]/div[3]/div/div[1]/div/div/div/ul/a[1]/div/div[1]/div[1]/h3)
+
+2024-11-30 20:13:51,126 - INFO - Scraping completed successfully
+2024-11-30 20:16:37,488 - INFO - Starting daily scrape
+2024-11-30 20:16:37,987 - INFO - Browser setup completed
+2024-11-30 20:17:32,109 - INFO - Date fields filled successfully
+2024-11-30 20:17:44,186 - INFO - Location and price fields handling completed
+2024-11-30 20:17:56,280 - INFO - Search button clicked successfully
+2024-11-30 20:18:16,297 - ERROR - Error scraping card 1: Locator.inner_text: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '(//div[@id="root"]/div[1]/div[1]/div[1]/DIV[1]/SECTION[1]/MAIN[1]/DIV[1]/DIV[2]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/UL[1]/A/descendant-or-self::DIV[contains(@class,"ant-col card-col__area ant-col-xs-24 ant-col-rtl")]//H3[1]' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:41:25)
+    at InjectedScript._queryEngineAll (<anonymous>:5725:49)
+    at InjectedScript.querySelectorAll (<anonymous>:5712:30)
+    at InjectedScript.querySelector (<anonymous>:5643:25)
+    at eval (eval at evaluate (:234:30), <anonymous>:9:36)
+    at UtilityScript.evaluate (<anonymous>:236:17)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("xpath=(//div[@id=\"root\"]/div[1]/div[1]/div[1]/DIV[1]/SECTION[1]/MAIN[1]/DIV[1]/DIV[2]/DIV[2]/DIV[3]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/UL[1]/A/descendant-or-self::DIV[contains(@class,\"ant-col card-col__area ant-col-xs-24 ant-col-rtl\")]//H3[1]")
+
+2024-11-30 20:18:28,917 - INFO - Scraping completed successfully
+2024-11-30 20:21:18,531 - INFO - Starting daily scrape
+2024-11-30 20:21:19,076 - INFO - Browser setup completed
+2024-11-30 20:22:13,169 - INFO - Date fields filled successfully
+2024-11-30 20:22:25,258 - INFO - Location and price fields handling completed
+2024-11-30 20:22:37,346 - INFO - Search button clicked successfully
+2024-11-30 20:23:43,861 - INFO - Scraping completed successfully
+2024-11-30 20:23:45,220 - INFO - Starting daily scrape
+2024-11-30 20:23:45,760 - INFO - Browser setup completed
+2024-11-30 20:24:39,430 - INFO - Date fields filled successfully
+2024-11-30 20:24:51,527 - INFO - Location and price fields handling completed
+2024-11-30 20:25:03,595 - INFO - Search button clicked successfully
+2024-11-30 20:25:31,404 - INFO - Scraping completed successfully
+2024-11-30 20:32:58,151 - INFO - Starting daily scrape
+2024-11-30 20:32:58,679 - INFO - Browser setup completed
+2024-11-30 20:33:52,951 - INFO - Date fields filled successfully
+2024-11-30 20:34:05,046 - INFO - Location and price fields handling completed
+2024-11-30 20:34:17,130 - INFO - Search button clicked successfully
+2024-11-30 20:34:37,142 - ERROR - Error during scraping: 'list' object has no attribute 'all'
+2024-11-30 20:37:09,592 - INFO - Starting daily scrape
+2024-11-30 20:37:10,094 - INFO - Browser setup completed
+2024-11-30 20:38:03,510 - INFO - Date fields filled successfully
+2024-11-30 20:38:15,600 - INFO - Location and price fields handling completed
+2024-11-30 20:38:27,687 - INFO - Search button clicked successfully
+2024-11-30 20:39:12,978 - INFO - Scraping completed successfully
+2024-11-30 20:51:22,619 - INFO - Starting daily scrape
+2024-11-30 20:51:23,137 - INFO - Browser setup completed
+2024-11-30 20:52:16,660 - INFO - Date fields filled successfully
+2024-11-30 20:52:28,761 - INFO - Location and price fields handling completed
+2024-11-30 20:52:40,853 - INFO - Search button clicked successfully
+2024-11-30 20:53:00,862 - ERROR - Error during scraping: object of type 'Locator' has no len()
+2024-11-30 20:55:36,373 - INFO - Starting daily scrape
+2024-11-30 20:55:36,877 - INFO - Browser setup completed
+2024-11-30 20:56:30,476 - INFO - Date fields filled successfully
+2024-11-30 20:56:42,571 - INFO - Location and price fields handling completed
+2024-11-30 20:56:54,647 - INFO - Search button clicked successfully
+2024-11-30 20:57:22,368 - INFO - Scraping completed successfully
+2024-11-30 20:59:41,453 - INFO - Starting daily scrape
+2024-11-30 20:59:41,967 - INFO - Browser setup completed
+2024-11-30 21:00:35,612 - INFO - Date fields filled successfully
+2024-11-30 21:00:47,682 - INFO - Location and price fields handling completed
+2024-11-30 21:00:59,759 - INFO - Search button clicked successfully
